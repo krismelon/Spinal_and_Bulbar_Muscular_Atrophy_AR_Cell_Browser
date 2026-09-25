@@ -12,7 +12,7 @@
 
 ## Organ/Tissue Choice and Dataset Information
 
-| **Item Information**     |                                                                                                                                                                                                                                                                                           |
+| **Item**                 |     **Information**                                                                                                                                                                                                                                                                                      |
 | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Dataset**              | Human IPSC Astrocyte Neuron – Integrated Neurons                                                                                                                                                                                                                                          |
 | **Organ/Tissue**         | Human neuronal cells / nervous system                                                                                                                                                                                                                                                     |

@@ -82,8 +82,7 @@ Figure 4. Dot plot showing AR expression across cell types in the Human IPSC Ast
 | **b. Marker gene 1**                                         | GADD45G                                                                            |
 | **c. Marker gene 2**                                         | TMED4                                                                              |
 | **d. Marker gene 3**                                         | SNHG8                                                                              |
-| **e. Does the assigned gene appear among the marker genes?** | No. AR is detectable in Excitatory neuron 4.6, but it is not listed among the marker genes shown for this cluster. Therefore, AR does not appear to uniquely characterize the Excitatory neuron 4.6 cell type in this dataset.
- |
+| **e. Does the assigned gene appear among the marker genes?** | No. AR is detectable in Excitatory neuron 4.6, but it is not listed among the marker genes shown for this cluster. Therefore, AR does not appear to uniquely characterize the Excitatory neuron 4.6 cell type in this dataset. |
 
 <img width="1723" height="740" alt="Screenshot 2026-09-25 090748" src="https://github.com/user-attachments/assets/7f872c92-2779-4ee4-90b6-22fcea823427" />
 
@@ -99,3 +98,38 @@ Figure 5. Cluster marker genes for Excitatory neuron 4.6 in the selected dataset
 | **d. Which gene appears more broadly expressed?**                                                                              | AR                                                                                                                                                                                                                                                                                                                                                   |
 | **e. What does this comparison teach you about the difference between a disease-associated gene and a cell-type marker gene?** | A cell-type marker gene such as GADD45G shows a more characteristic expression pattern in a specific cell population. A disease-associated gene such as AR can be biologically relevant without being specific to one cell type. Therefore, disease-associated genes and cell-type marker genes can have different expression patterns and purposes. |
 
+## 9. Connection to Genome Browser and ClinVar
+
+1. On which chromosome is your assigned gene located? Use your previous UCSC Genome Browser activity.
+- Chromosome X (Xq12).
+  
+2. What disease-associated variant did you examine previously?
+- The variant was AR c.2296G>A (p.Ala766Thr), a missense variant that changes alanine to threonine.
+
+3. In the current Cell Browser dataset, which cell type(s) express the gene?
+- AR is detectable in the Excitatory neuron 4.6 cell type.
+   
+4. Does the observed cell expression make biological sense based on what you already know about the gene's function or associated disease? Explain in 3-5 sentences.
+- Yes. AR is involved in androgen signaling and is important in many tissues. Since SBMA affects motor neurons and muscles, finding AR expression in a neuronal cell type is biologically reasonable.
+  
+5. Can this single Cell Browser dataset prove that the gene causes the disease? Explain why or why not.
+- No. The dataset only shows where AR is expressed. Additional genetic, functional, and clinical evidence is needed to prove that AR causes the disease.
+
+## 10. Short Reflection
+
+1. What did the UCSC Cell Browser show you that the UCSC Genome Browser could not?
+- The UCSC Cell Browser showed which specific cell types express the AR gene and how strongly it is expressed. In contrast, the UCSC Genome Browser focused on the gene's chromosomal location and genetic features.
+
+2. Why can the same gene have different expression levels among different cell types?
+- Each cell type has a different role in the body, so it requires different genes to be active. Because of these differences, the expression level of the same gene can vary from one cell type to another.
+  
+3. Why should you be careful when interpreting a gene that shows zero or very low expression in single-cell data?
+- A gene with low or undetectable expression is not necessarily inactive. Sometimes the expression level is too low to be detected, or technical limitations in single-cell sequencing may affect the results.
+
+4. Why is it useful to combine information about genomic location, genetic variants, and cell-specific gene expression?
+- Combining these types of information provides a more complete understanding of a gene. It helps show where the gene is located, what variants are associated with it, and in which cell types it is expressed.
+
+5. What was the most interesting observation you made about your assigned gene?
+- The most interesting observation was that AR was expressed in the Excitatory neuron 4.6 cluster. This was interesting because AR is involved in androgen signaling and has been linked to SBMA, suggesting a possible connection between its function and neuronal cells.
+
+## References

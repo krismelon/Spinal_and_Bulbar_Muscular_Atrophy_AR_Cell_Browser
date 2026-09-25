@@ -133,3 +133,11 @@ Figure 5. Cluster marker genes for Excitatory neuron 4.6 in the selected dataset
 - The most interesting observation was that AR was expressed in the Excitatory neuron 4.6 cluster. This was interesting because AR is involved in androgen signaling and has been linked to SBMA, suggesting a possible connection between its function and neuronal cells.
 
 ## References
+
+UCSC Cell browser. (n.d.). https://cells.ucsc.edu/?ds=ipsc-astrocyte-neuron%2Bint-neurons 
+
+UCSC Cell browser. (n.d.-a). https://cells.ucsc.edu/?ds=ipsc-astrocyte-neuron 
+
+UCSC Cell browser. (n.d.-a). https://cells.ucsc.edu/?ds=ipsc-astrocyte-neuron%2Bint-neurons&gene=AR&exprGene=MAP2%2BRBFOX3%2BNEUROG2%2BPCSK1N%2BIGFBP5%2BLY6H%2BTAC1%2BRTN1%2BFOS%2BNTS%2BEEF1A2%2BSNCA%2BTUBB2A%2BARHGEF19%2BAR&exprMeta=clusters 
+
+UCSC Cell browser. (n.d.-a). https://cells.ucsc.edu/?ds=ipsc-astrocyte-neuron%2Bint-neurons&gene=AR&exprGene=TUBB2A%2BAR&exprMeta=clusters 
